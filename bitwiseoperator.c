@@ -11,7 +11,7 @@ int main()
 
     printf("a^b:%d\n", a ^ b); // Reusult:6 (0110)
 
-    printf("-a:%d\n", a); // Reusult:-6 (11111010)
+    printf("-a:%d\n", a); // Reusult:-5
 
     printf("a<<1:%d\n", a << 1); // Reusult:10 (1010)
 
