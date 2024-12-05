@@ -7,7 +7,7 @@ int main()
 
     printf("a&b:%d\n", a & b); // Result:1 (0001)
 
-    printf("a|b:%d\n", a | b); // Result:7 (o111)
+    printf("a|b:%d\n", a | b); // Result:7 (0111)
 
     printf("a^b:%d\n", a ^ b); // Reusult:6 (0110)
 
